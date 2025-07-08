@@ -1,3 +1,4 @@
+# Food-Recipes'
 🍲 Food Recipes Website
 📖 Project Overview
 The Food Recipes project is a simple and user-friendly web application that allows users to browse and explore a variety of food recipes. The goal is to provide quick access to popular dishes with easy-to-follow instructions, making cooking fun and accessible for everyone.
@@ -35,4 +36,4 @@ Great for cooking beginners or food enthusiasts.
 
 Runs locally on any browser without needing a server or database.
 
-# Food-Recipes'
+
